@@ -1,5 +1,4 @@
 # hello-world
-Trying to learn this
 
 Hi,
 What is this all about tadatada
